@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{ReduxSimpleStarter node_modules}" />
+    <file url="PROJECT" libraries="{ReduxSimpleStarter node_modules, chai-jquery-DefinitelyTyped, mocha-DefinitelyTyped, react-DefinitelyTyped, react-bootstrap-DefinitelyTyped, react-bootstrap-daterangepicker-DefinitelyTyped, react-native-DefinitelyTyped, react-redux-DefinitelyTyped, rx-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+    <includedPredefinedLibrary name="Node.js Core" />
+    <includedPredefinedLibrary name="WebGL" />
+  </component>
+</project>
